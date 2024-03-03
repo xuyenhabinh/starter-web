@@ -1,3 +1,4 @@
 MyFile.txt
 *.ext
 folder/
+*.log
